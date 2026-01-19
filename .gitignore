@@ -1,3 +1,8 @@
+# TP related files
+references/
+exam/promo*
+TP_SOAC-corrections.zip
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
